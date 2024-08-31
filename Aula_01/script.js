@@ -3,5 +3,9 @@ alert("Hello, World");
 //let preco = prompt("Digite o preço");
 //document.write(preco);
 
-let nome = prompt("Digite o seu nome")
-document.write("Olá ", nome, ". Seja bem-vindx ao site")
+let nome = prompt("Digite o seu nome");
+document.write("Olá ", nome, ". Seja bem-vindx ao site");
+
+const cidade="Resende"
+console.log(cidade)
+
